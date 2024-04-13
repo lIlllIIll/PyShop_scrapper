@@ -1,0 +1,10 @@
+      iOS 15 38
+      iOS 17 17
+Android 13.x 14
+      iOS 16  9
+  Android 13  8
+         iOS  4
+      iOS 14  4
+  Android 14  3
+Android 12.x  2
+     Android  1
