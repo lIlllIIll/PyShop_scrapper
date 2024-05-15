@@ -18,6 +18,6 @@ iOS 14 — 8
 
 ## **Для запуска:**
 1. Установить нужные зависимости ```pip install -r requirements.txt```
-2. Перейти в каталог ```cd ozon```
+2. Перейти в каталог ```cd ozon\ozon```
 3. Запустить паука ```scrapy crawl ozon_spider```
 

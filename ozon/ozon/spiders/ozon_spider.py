@@ -12,7 +12,7 @@ from ..items import SmartphoneOsItem
 class OzonSmartphonesSpider(scrapy.Spider):
     name = "ozon_spider"
     allowed_domains = ["ozon.ru"]
-    path = "./driver/chromedriver.exe"
+    path = "../driver/chromedriver.exe"
     start_url = "https://www.ozon.ru/category/smartfony-15502/?sorting=rating&page=1"
     the_required_amount = 100
     smartphones_links = []
